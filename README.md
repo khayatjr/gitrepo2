@@ -1,4 +1,4 @@
-i. Project Title (title of sprint).
-ii. Getting Started (explanation of content in reop).
-iii. Author (your ﬁrst name & last name & ID).
+i. Project Title sprint 0.
+ii. Getting Started : trying github.
+iii. Author (youssef el khayat 37-1704 .
 iv. Acknowledgments (book Chacon, Scott, and Ben Straub. Pro Git. Apress, 2014.)
