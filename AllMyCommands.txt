@@ -1,0 +1,13 @@
+git init
+git add .
+git commit -m "files are added now "
+git rm third.txt
+git commit -m "file deleted"
+$ git checkout 6c6d7872a2b4315c3c02abe93548d3d8c08b2d41
+$ git commit -m "restored deleted file"
+git remote add origin https://github.com/khayatjr/gitrepo2.git
+$ git push -u origin master
+git branch README
+$ git add README.md
+$     git push --set-upstream origin ReadMe
+git merge ReadME master
